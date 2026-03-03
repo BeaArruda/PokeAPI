@@ -41,7 +41,7 @@ https://pokeapi.co/api/v2/pokemon/1
 ---
 
 ## 📂 Estrutura do projeto
-projeto-viacep
+projeto-pokeapi
 │
 ├── index.html
 ├── style.css
