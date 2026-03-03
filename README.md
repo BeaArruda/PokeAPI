@@ -40,7 +40,7 @@ https://pokeapi.co/api/v2/pokemon/1
 
 ---
 
-📂 Estrutura do projeto
+📂 Estrutura do projeto | 
 projeto-pokeapi
 │
 ├── index.html
